@@ -14,6 +14,8 @@
      <img align="center" alt="joao-Django" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="right" alt="JoaoVitor-pic" height="150" style="border-radius:50px;" src="">
 </div>
+   
+  ##
   
 <div> 
   <a href="https://www.instagram.com/joao_vitor_0o/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
