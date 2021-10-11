@@ -12,7 +12,7 @@
   <img align="center" alt="joao-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="joao-Django" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
      <img align="center" alt="joao-Django" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="JoaoVitor-pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="JoaoVitor-pic" height="150" style="border-radius:50px;" src="meugif/meugif.gif">
 </div>
    
   ##
