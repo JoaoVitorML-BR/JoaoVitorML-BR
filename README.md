@@ -17,7 +17,7 @@
   <img align="center" alt="joao-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="joao-Django" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <br>
-  <h2> Bancos de dados que Já usei e possuo um conhecimento Básico</h2><br>
+  <h2> Banco de dados que já usei e possuo um conhecimento Básico</h2><br>
   <img align="center" alt="joao-Mysql" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="joao-MongoDB" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="joao-PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
