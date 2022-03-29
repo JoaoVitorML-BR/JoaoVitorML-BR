@@ -20,7 +20,11 @@
   <h2> Banco de dados que já usei e possuo um conhecimento Básico</h2><br>
   <img align="center" alt="joao-Mysql" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="joao-MongoDB" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="joao-PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="joao-PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"><br>
+  <h2> Sistemas Operacionais que uso Atualmente: </h2><br>
+  <br>
+  <img align="center" alt="joao-Ubuntu" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
+  <img align="center" alt="joao-Windows" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="right" alt="JoaoVitor-pic" height="150" style="border-radius:50px;" src="meuavatar/meuavatar.jpeg">
 </div>
    
