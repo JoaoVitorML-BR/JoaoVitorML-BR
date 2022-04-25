@@ -1,4 +1,4 @@
-## Olá, Eu sou o João Vitor, Desenvolvedor de software Backend em construção.
+## Olá, Eu sou o João Vitor, Desenvolvedor de software Backend.
 
 <div align="center">
   <a href="https://github.com/JoaoVitorML-BR">
