@@ -7,7 +7,7 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <h2> Linguagens que programo / conheço</h2><br>
+  <h2> Linguagens que desenvolvo / conheço</h2><br>
   <img align="center" alt="joao-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="joao-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="joao-JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -16,6 +16,7 @@
   <img align="center" alt="joao-SEQUELIZE" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
   <br>
   <br>
+  <img align="center" alt="joao-Golang" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
   <img align="center" alt="joao-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="joao-Django" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <h2> Banco de dados </h2><br>
