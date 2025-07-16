@@ -13,6 +13,8 @@
 ---
 <br>
 
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoVitorML-BR/JoaoVitorML-BR/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoVitorML-BR/JoaoVitorML-BR/output/pacman-contribution-graph.svg">
@@ -65,6 +67,4 @@
 
    
   ![Snake animation](https://github.com/JoaoVitorML-BR/JoaoVitorML-BR/blob/output/github-contribution-grid-snake.svg)
- 
- 
 </div>
