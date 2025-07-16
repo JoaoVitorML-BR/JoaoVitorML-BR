@@ -28,6 +28,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorML-BR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorML-BR&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JoaoVitorML-BR.JoaoVitorML-BR&"  />
+</div>
   
   <div style="display: inline_block"><br>
   <h2> Linguagens que desenvolvo / conheço</h2><br>
