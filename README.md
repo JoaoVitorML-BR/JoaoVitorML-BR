@@ -1,5 +1,29 @@
-## Olá, Eu sou o João Vitor, Desenvolvedor de software Backend.
+## Olá, eu sou o João Vitor.
 
+<p align="left">
+  Desenvolvedor Back End <strong>Node | Java</strong>. Atualmente, estou cursando <strong>Bacharelado em Sistemas de Informação</strong>, onde aplico e aprimoro constantemente meus conhecimentos técnicos. Minha trajetória profissional é marcada por uma abordagem autodidata, sempre buscando novas tecnologias e melhores práticas no desenvolvimento de software. Tenho experiência em Node.js, Java e Golang, criando APIs, além de trabalhar com bancos de dados como MySQL, PostgreSQL e MongoDB.
+</p>
+
+## Sobre mim
+
+- 🖥️ Desenvolvedor Google planilhas, QGIS e Power BI  |Prefeitura de Arapiraca | 08/2023 até o momento
+- 🖥️ Desenvolvedor backend Java | UOL (Estágio) | 05/2025 até o momento
+- 🎓 Graduando em Sistemas de Informação - IFAL
+- 📚 Atuando com Java, Node.JS e React
+---
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoVitorML-BR/JoaoVitorML-BR/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoVitorML-BR/JoaoVitorML-BR/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoVitorML-BR/JoaoVitorML-BR/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+---
+
+## ⭐ GitHub Stats
 <div align="center">
   <a href="https://github.com/JoaoVitorML-BR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorML-BR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
