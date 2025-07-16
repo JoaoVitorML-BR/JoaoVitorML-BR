@@ -11,7 +11,6 @@
 - 🎓 Graduando em Sistemas de Informação - IFAL
 - 📚 Atuando com Java, Node.JS e React
 ---
-
 <br>
 
 <picture>
