@@ -12,7 +12,6 @@
 - 📚 Atuando com Java, Node.JS e React
 ---
 <br>
----
 
 ## ⭐ GitHub Stats
 <div align="center">
