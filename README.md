@@ -7,7 +7,7 @@
 ## Sobre mim
 
 - 🖥️ Desenvolvedor Google planilhas, QGIS e Power BI  | Prefeitura de Arapiraca/AL | 08/2023 até o momento
-- 🖥️ Desenvolvedor backend Java | UOL (Estágio) | 05/2025 até o momento
+- 🖥️ Desenvolvedor backend Java | UOL (Estágio) | 05/2025 - 10/2025
 - 🎓 Graduando em Sistemas de Informação - IFAL
 - 📚 Atuando com Java, Node.JS e React
 ---
